@@ -1,10 +1,10 @@
-<pre class="code" lang="c">
-
-</pre>
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
+
+//	==========                 ==========
+//	========== www.eXcript.com ==========
+//	==========                 ==========
 
 int main()
 {

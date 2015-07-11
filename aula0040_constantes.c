@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//	==========                 ==========
+//	========== www.eXcript.com ==========
+//	==========                 ==========
+
 //# comando nome_da_const valor
 #define w 7
 

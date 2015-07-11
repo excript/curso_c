@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//	==========                 ==========
+//	========== www.eXcript.com ==========
+//	==========                 ==========
+
 int main()
 {
     int i = 10;

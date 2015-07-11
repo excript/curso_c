@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//	==========                 ==========
+//	========== www.eXcript.com ==========
+//	==========                 ==========
+
 int main()
 {
     float nota1, nota2, nota3, nota4, media;
