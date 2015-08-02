@@ -9,7 +9,13 @@ int main(){
     //imprime a mensagem que estive entre aspas duplas
     printf("Ola mundo.");
 
-    //valor de retorno para a função principal
+    //valor de retorno para a funï¿½ï¿½o principal
     //indicando que o programa acabou
     return 0;
 }
+
+
+
+
+
+
